@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ai$&wp28%unv#43mpqew^8dns2_z82tkhw6#7nw1h3^=$_iuu$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['a22106706.pythonanywhere.com']
+ALLOWED_HOSTS = ['a22106706.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
